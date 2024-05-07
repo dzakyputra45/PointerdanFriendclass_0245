@@ -12,3 +12,10 @@ public :
     }
         
 };
+
+class segitiga
+{
+
+
+};
+
