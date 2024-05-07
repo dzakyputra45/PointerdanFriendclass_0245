@@ -34,5 +34,8 @@ int main()
 {
     persegipanjang pp;
     segitiga sg;
+    cout << "Masukkan Panjang : ";
+    cin >> pp.panjang;
+    
 
 }
