@@ -36,6 +36,9 @@ int main()
     segitiga sg;
     cout << "Masukkan Panjang : ";
     cin >> pp.panjang;
+    cout << "Masukkan Lebarnya : ";
+    cin >> pp.lebar;
+    
     
 
 }
