@@ -38,6 +38,10 @@ int main()
     cin >> pp.panjang;
     cout << "Masukkan Lebarnya : ";
     cin >> pp.lebar;
+    cout << "Masukkan Tinggi : ";
+    cin >> sg.tinggi;
+    cout << "Masukkan Alas : ";
+    cin >> sg.alas;
     
     
 
